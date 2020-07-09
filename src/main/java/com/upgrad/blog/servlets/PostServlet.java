@@ -1,6 +1,8 @@
 package com.upgrad.blog.servlets;
 
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
@@ -52,8 +54,7 @@ import java.io.IOException;
  * thread1: Saving data into the database
  * thread2: Writing logs into the file
  */
-
-public class PostServlet {
+public class PostServlet extends HttpServlet {
     //    Here we will have servlet methods
 
     /**
@@ -63,9 +64,11 @@ public class PostServlet {
      * @throws ServletException
      * @throws IOException
      */
+    @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
-//        Uncomment the following code snippet to check whether any of the field is empty.
+       // Uncomment the following code snippet to check whether any of the field is empty.
+
 //        if (email.equals(null) || title.equals(null) || tag.equals(null) || description.equals(null)) {
 //            req.setAttribute("isError", true);
 //            req.setAttribute("errorMessage", "All form fields value are required!");

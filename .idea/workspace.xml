@@ -20,10 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4ed4b07-21c4-4ff2-a2ce-de077c49dae0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dao/DAOFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dao/DAOFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dao/PostDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dao/PostDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/db/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/db/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dto/PostDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dto/PostDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/exceptions/EmailNotValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/exceptions/EmailNotValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/exceptions/PostNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/exceptions/PostNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/servlets/PostServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/servlets/PostServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/servlets/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/upgrad/blog/servlets/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Logout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Logout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/blog/CreatePost.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/blog/CreatePost.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/blog/ViewPostById.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/blog/ViewPostById.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/db/DatabaseConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/dto/PostDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/dto/UserDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/upgrad/blog/dto/UserDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/exceptions/EmailNotValidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/upgrad/blog/exceptions/EmailNotValidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/exceptions/PostNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/interfaces/PostsCRUD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/servlets/PostServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/upgrad/blog/servlets/PostServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/servlets/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/upgrad/blog/util/LogWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-05-29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +72,62 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.blog-demo [tomcat7:run]">
+    <configuration name="EmailNotValidException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.blog.exceptions.EmailNotValidException" />
+      <module name="blog_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.blog.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostDTO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.blog.dto.PostDTO" />
+      <module name="blog_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.blog.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostNotFoundException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.blog.exceptions.PostNotFoundException" />
+      <module name="blog_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.blog.exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDTO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.blog.dto.UserDTO" />
+      <module name="blog_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.upgrad.blog.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="blog-demo [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -71,6 +155,14 @@
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PostNotFoundException" />
+        <item itemvalue="Application.EmailNotValidException" />
+        <item itemvalue="Application.UserDTO" />
+        <item itemvalue="Application.PostDTO" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,21 +194,45 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593414595301" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1593417228707">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1594281226004">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593417228707" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1593417228705">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594281226004" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1594125111630" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1594281226002">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593417228705" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1593417228702">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594281226002" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1594125111629" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1594281226001">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593417228702" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1593417228706">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594281226001" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1594125111626" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1594281226003">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593417228706" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594281226003" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1594125111629" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1593666498988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593666498988" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1593666498987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593666498987" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1593666498987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593666498987" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1593666498988">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593666498988" />
+    <state x="88" y="72" key="new project wizard" timestamp="1593768420471">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1593768420471" />
   </component>
 </project>
